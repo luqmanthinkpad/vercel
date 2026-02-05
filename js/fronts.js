@@ -52,7 +52,7 @@
                     </div>
                     <p style="color: #666; font-size: 13px; margin-bottom: 25px;">Akses ditolak atau server backend tidak merespon.</p>
                     <div style="display: grid; gap: 10px;">
-                        <a href="https://t.me/newsgo.space" target="_blank" style="text-decoration: none; padding: 12px; background: #0088cc; color: white; border-radius: 8px; font-weight: 600;">Hubungi Administrator</a>
+                        <a href="https://t.me/" target="_blank" style="text-decoration: none; padding: 12px; background: #0088cc; color: white; border-radius: 8px; font-weight: 600;">Hubungi Administrator</a>
                         <button onclick="window.location.reload()" style="cursor: pointer; padding: 12px; background: white; color: #555; border: 1px solid #ddd; border-radius: 8px;">Coba Muat Ulang</button>
                     </div>
                 </div>
@@ -119,7 +119,7 @@
                 </section>
                 <footer class="footer pt20 pb20 bgcolor-gray" style="border-top: 1px solid #eee; margin-top: 30px;">
                     <div class="container text-center">
-                        <p style="font-size: 12px; color: #777;">&copy; 2026 Newsgo. All rights reserved.</p>
+                        <p style="font-size: 12px; color: #777;">&copy; 2026 All rights reserved.</p>
                     </div>
                 </footer>
             </div>
@@ -216,7 +216,7 @@
                     "headline": title,
                     "image": news.json_images?.[0]?.url || "",
                     "datePublished": news.created_at,
-                    "author": { "@type": "Organization", "name": "Newsgo" }
+                    "author": { "@type": "Organization", "name": "W" }
                 });
 
                 const content = `
