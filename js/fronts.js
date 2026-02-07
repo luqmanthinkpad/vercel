@@ -83,11 +83,11 @@
 						<div class="col-xs-4 col-md-6 col-lg-8">
 							<div class="logo-brand text-center">
 								<a href="/" class="mh-auto">
-									<img id="main-logo" src="n1_ipotnews.png" class="img-responsive hidden-xs hidden-sm mh-auto">
+									<img id="main-logo" src="https://cdn.jsdelivr.net/gh/luqmanthinkpad/csrnew/img/n1_ipotnews.png" class="img-responsive hidden-xs hidden-sm mh-auto">
 								</a>
 
 								<a href="/" class="mh-auto">
-									<img id="main-logo-mobile" src="n1_ipotnews_w.png" class="img-responsive visible-xs visible-sm mh-auto">
+									<img id="main-logo-mobile" src="https://cdn.jsdelivr.net/gh/luqmanthinkpad/csrnew/img/n1_ipotnews_w.png" class="img-responsive visible-xs visible-sm mh-auto">
 								</a>
 							</div>
 						</div>
